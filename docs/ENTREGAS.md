@@ -29,7 +29,6 @@ Brightspace muestra tres buzones con cierre el 3 de diciembre de 2026 a las 23:5
 - Secciones consistentes para los seis proyectos.
 - Conclusión general.
 - Referencias, cuando correspondan.
-- Registro del uso estratégico de IA: herramienta, fase, mejora obtenida y reflexión crítica.
 
 ## Exposición
 

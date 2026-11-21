@@ -4,14 +4,14 @@ Repositorio del equipo para integrar los seis proyectos del curso, su documentac
 
 ## Proyectos
 
-| # | Estructura | Proyecto | Responsable | Estado |
-|---|---|---|---|---|
-| 1 | Arreglos | Resistencia eléctrica | Compañero 1 | Entrega parcial realizada; falta revisión final |
-| 2 | Listas | Carrito de compras | Compañero 1 | Entrega parcial realizada; falta revisión final |
-| 3 | Pilas | Navegador web | Compañero 2 | Entrega parcial realizada; falta revisión final |
-| 4 | Colas | Cola de impresión | Compañero 2 | Entrega parcial realizada; falta revisión final |
-| 5 | Árboles | Sistema de archivos | Diego + Codex | Código parcial entregado; documentación pendiente |
-| 6 | Grafos | Ruta mágica | Diego + Codex | Código y documentación pendientes |
+| # | Estructura | Proyecto | Estado |
+|---|---|---|---|
+| 1 | Arreglos | Resistencia eléctrica | Entrega parcial realizada; falta revisión final |
+| 2 | Listas | Carrito de compras | Entrega parcial realizada; falta revisión final |
+| 3 | Pilas | Navegador web | Entrega parcial realizada; falta revisión final |
+| 4 | Colas | Cola de impresión | Entrega parcial realizada; falta revisión final |
+| 5 | Árboles | Sistema de archivos | Código parcial entregado; documentación pendiente |
+| 6 | Grafos | Ruta mágica | Código y documentación pendientes |
 
 ## Entrega final
 
@@ -26,4 +26,4 @@ Cada proyecto contiene:
 - `evidencias/`: capturas de las pruebas.
 - `README.md`: instrucciones de compilación, uso y estado del proyecto.
 
-Consulta `AGENTS.md` antes de modificar código y `docs/ENTREGAS.md` para los criterios de entrega.
+Consulta `docs/ENTREGAS.md` para los criterios de entrega.
