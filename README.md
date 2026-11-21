@@ -11,4 +11,4 @@ Repositorio de trabajo para los seis proyectos finales desarrollados en Python.
 5. Árboles — Sistema de archivos
 6. Grafos — Ruta mágica
 
-Cada proyecto se desarrollará gradualmente en su carpeta correspondiente.
+
