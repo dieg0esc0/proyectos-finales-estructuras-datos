@@ -28,13 +28,6 @@ Explicar la organización del código y las decisiones principales. Incluir sola
 
 Registrar correcciones realizadas después de la entrega parcial.
 
-## 7. Uso de IA
-
-- Herramienta:
-- Fase:
-- Mejora obtenida:
-- Revisión y reflexión crítica:
-
-## 8. Conclusión
+## 7. Conclusión
 
 Aprendizajes, dificultades y resultado del proyecto.
