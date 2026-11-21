@@ -13,6 +13,10 @@ Repositorio del equipo para integrar los seis proyectos del curso, su documentac
 | 5 | Árboles | Sistema de archivos | Código parcial entregado; documentación pendiente |
 | 6 | Grafos | Ruta mágica | Código y documentación pendientes |
 
+## Lenguaje
+
+Todos los proyectos se desarrollarán en Python 3.
+
 ## Entrega final
 
 La entrega final se divide en documentación completa, programa funcional y exposición. Los enlaces se entregarán mediante Brightspace y el contenido se mantendrá en este repositorio.
@@ -21,9 +25,9 @@ La entrega final se divide en documentación completa, programa funcional y expo
 
 Cada proyecto contiene:
 
-- `src/`: código fuente Java.
+- `src/`: código fuente Python.
 - `docs/`: requisitos, UML y documentación.
 - `evidencias/`: capturas de las pruebas.
-- `README.md`: instrucciones de compilación, uso y estado del proyecto.
+- `README.md`: instrucciones de ejecución, uso y estado del proyecto.
 
 Consulta `docs/ENTREGAS.md` para los criterios de entrega.
