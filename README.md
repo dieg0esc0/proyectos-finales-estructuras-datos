@@ -8,7 +8,7 @@ Repositorio de trabajo para los seis proyectos finales desarrollados en Python.
 2. Listas — Carrito de compras
 3. Pilas — Navegador web
 4. Colas — Cola de impresión
-5. Árboles — Sistema de archivos
+5. [Árboles — Sistema de archivos](proyectos/05-arboles-sistema-archivos/README.md)
 6. Grafos — Ruta mágica
 
 
