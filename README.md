@@ -4,8 +4,8 @@ Repositorio de trabajo para los seis proyectos finales desarrollados en Python.
 
 ## Proyectos
 
-1. Arreglos — Resistencia eléctrica
-2. Listas — Carrito de compras
+1. [Arreglos — Resistencia eléctrica](proyectos/01-arreglos-resistencia/README.md)
+2. [Listas — Carrito de compras](proyectos/02-listas-carrito/README.md)
 3. [Pilas — Navegador web](proyectos/03-pilas-navegador/README.md)
 4. [Colas — Cola de impresión](proyectos/04-colas-impresion/README.md)
 5. [Árboles — Sistema de archivos](proyectos/05-arboles-sistema-archivos/README.md)
